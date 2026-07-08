@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://ai.ch3n.cc">
-    <img src="https://raw.githubusercontent.com/RedNotSus/free-gpt/refs/heads/main/assets/banner.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/jiayangc1/free-gpt/refs/heads/main/assets/banner.png" alt="Logo">
   </a>
 
 <h3 align="center">Free GPT</h3>
@@ -15,9 +15,9 @@
     <br />
     <a href="https://ai.ch3n.cc">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/free-gpt/issues">Report Bug</a>
+    <a href="https://github.com/jiayangc1/free-gpt/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSusfree-gpt/issues">Request Feature</a>
+    <a href="https://github.com/jiayangc1/free-gpt/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RedNotSus/free-gpt.git
+   git clone https://github.com/jiayangc1/free-gpt.git
    ```
 2. Open ai.js and change the `api` variable to your own groq api key
 
@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
 - [ ] More AI models
 - [ ] Accounts
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jiayangc1/free-gpt/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,8 +121,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/free-gpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/free-gpt" alt="contrib.rocks image" />
+<a href="https://github.com/jiayangc1/free-gpt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jiayangc1/free-gpt" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
